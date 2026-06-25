@@ -41,9 +41,7 @@
 
 | Status | Quest | Description |
 |--------|-------|-------------|
-| 🟡 `MAIN QUEST` | [coming soon](https://github.com/kekangshu99) | — |
-| 🔵 `SIDE QUEST` | [coming soon](https://github.com/kekangshu99) | — |
-| ✅ `COMPLETED`  | [coming soon](https://github.com/kekangshu99) | — |
+| ✅ `COMPLETED` | [Game1](https://github.com/kekangshu99/Game1) | DirectX graphics engine — lighting, shadow mapping, SSAO, particle systems in HLSL |
 
 </div>
 
