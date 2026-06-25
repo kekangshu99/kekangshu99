@@ -12,18 +12,7 @@
 <!-- ════════════════════ VN DIALOGUE ════════════════════ -->
 <div align="center">
 
-```
-╔══[ kekangshu99 ]════════════════════════════════════╗
-║                                                      ║
-║  Hey! I'm a developer who builds worlds with C++    ║
-║  and Python — and summons AI power with             ║
-║  Claude Code ✨                                     ║
-║                                                      ║
-║  Fueled by anime, games, and caffeine ☕ 🎮         ║
-║  Current quest: learning game engine architecture   ║
-║                                                      ║
-╚══════════════════════════════════════[ ▶ Next ]═════╝
-```
+<img src="assets/dialogue.svg" width="600" alt="dialogue"/>
 
 </div>
 
@@ -35,16 +24,10 @@
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────┐
-│  TECHNICAL ATTRIBUTES                               │
-├─────────────────────────────────────────────────────┤
-│  ⚔️  C++          ████████░░  Expert               │
-│  🐍  Python       ███████░░░  Advanced             │
-│  🤖  Claude Code  ██████████  Master               │
-│  🎮  Game Dev     █████░░░░░  In Progress          │
-└─────────────────────────────────────────────────────┘
-```
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-FF6B9D?style=for-the-badge&logo=anthropic&logoColor=white)
+![Game Dev](https://img.shields.io/badge/Game_Dev-C44DFF?style=for-the-badge&logo=unity&logoColor=white)
 
 </div>
 
