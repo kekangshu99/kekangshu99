@@ -12,7 +12,7 @@
 <!-- ════════════════════ VN DIALOGUE ════════════════════ -->
 <div align="center">
 
-<img src="assets/dialogue.svg?v=2" width="600" alt="dialogue"/>
+<img src="assets/dialogue-v2.svg" width="600" alt="dialogue"/>
 
 </div>
 
