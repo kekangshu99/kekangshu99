@@ -28,6 +28,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Code-FF6B9D?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Game Dev](https://img.shields.io/badge/Game_Dev-C44DFF?style=for-the-badge&logo=unity&logoColor=white)
+![DirectX](https://img.shields.io/badge/DirectX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-00D4FF?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 </div>
 
